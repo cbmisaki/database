@@ -173,8 +173,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "27a8ab1ef5372e67",
+  "active": "037c19f02c765800",
   "lastOpenFiles": [
+    "tools/deutsch.ahk",
+    "tools",
     "base-md/deutsch.ahk",
     "base-md",
     "deutsch.ahk",
