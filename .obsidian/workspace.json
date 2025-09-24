@@ -11,10 +11,14 @@
             "id": "d3451112e0a7bb38",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "deutsch/schreiben/Meine-Sprachbiografie.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Meine-Sprachbiografie"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "deutsch/schreiben/Meine-Sprachbiografie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Meine-Sprachbiografie"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "deutsch/schreiben/Meine-Sprachbiografie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Meine-Sprachbiografie"
             }
           },
           {
@@ -136,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "deutsch/schreiben/Meine-Sprachbiografie.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Meine-Sprachbiografie"
             }
           },
           {
@@ -173,8 +180,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "037c19f02c765800",
+  "active": "d3451112e0a7bb38",
   "lastOpenFiles": [
+    "Untitled.md",
+    "deutsch/schreiben/Meine-Sprachbiografie.md",
     "tools/deutsch.ahk",
     "tools",
     "base-md/deutsch.ahk",
