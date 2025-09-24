@@ -173,8 +173,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "037c19f02c765800",
+  "active": "27a8ab1ef5372e67",
   "lastOpenFiles": [
+    "base-md/deutsch.ahk",
+    "base-md",
+    "deutsch.ahk",
+    "New AutoHotkey Script.ahk",
     "abc.md",
     "deutsch/sprechen",
     "deutsch/schreiben",
