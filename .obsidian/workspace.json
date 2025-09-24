@@ -136,13 +136,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "abc.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of abc"
+              "title": "Outline"
             }
           },
           {
@@ -174,12 +173,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "27a8ab1ef5372e67",
+  "active": "037c19f02c765800",
   "lastOpenFiles": [
+    "abc.md",
     "deutsch/sprechen",
     "deutsch/schreiben",
     "Untitled",
-    "deutsch",
-    "abc.md"
+    "deutsch"
   ]
 }
