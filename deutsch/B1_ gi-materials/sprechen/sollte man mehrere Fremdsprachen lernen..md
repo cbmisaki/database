@@ -4,7 +4,7 @@ ich möchte heute über das Thema **"Sollte man mehrere Fremdsprachen lernern?"*
 Zuerst erkläre ich meine persönaliche Erfahrung, dann spreche ich über die Situation in Vietnam. Danach nenne ich einige Vorteile und Nachteine. Am Ende kommt mein Fazit.
 
 #### Meine persönaliche Erfahrung
-ich habe schon früh angefangen, Fremdsprachen yu lernen. Englisch lerne ich seit ich 4 Jahre alt bin. Es war am Anfang wie ein Spiel für mich, aber mit der Zeit wurde es ernster. Heute kann ich ziemlich gut Englisch sprechen und schreiben.
+ich habe schon früh angefangen, Fremdsprachen zu lernen. Englisch lerne ich seit ich 4 Jahre alt bin. Es war am Anfang wie ein Spiel für mich, aber mit der Zeit wurde es ernster. Heute kann ich ziemlich gut Englisch sprechen und schreiben.
 Später habe ich angefangen, Deutsch zu lernen, weil ich in Deutschland eine **Ausbildung machen** möchte. Am Anfang war Deutsch schwer, aber weil ich schon Englisch kann, ist es ein bisschen einfacher, eine neue Sprache zu lernen.
 
 
