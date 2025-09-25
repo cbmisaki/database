@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "deutsch/schreiben/Meine-Sprachbiografie.md",
-                "linksCollapsed": false,
+                "file": "deutsch/B1_ gi-materials/Grammatikübersicht.md",
+                "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Meine-Sprachbiografie"
+              "title": "Outgoing links from Grammatikübersicht"
             }
           },
           {
@@ -172,7 +172,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -191,12 +191,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fa84f2cabe4d3a52",
+  "active": "addaffed7d9475ca",
   "lastOpenFiles": [
+    "deutsch/B1_ gi-materials/schreiben/mein Angebot!.md",
     "deutsch/B1_ gi-materials/Grammatikübersicht.md",
     "deutsch/B1_ gi-materials/sprechen/sollte man mehrere Fremdsprachen lernen..md",
     "deutsch/B1_ gi-materials/schreiben/meine Sprachbiografie.md",
-    "deutsch/B1_ gi-materials/schreiben/mein Angebot!.md",
     "deutsch/B1_ gi-materials",
     "Untitled",
     "deutsch/schreiben/meo.md",
