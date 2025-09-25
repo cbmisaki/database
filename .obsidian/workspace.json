@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "deutsch/B1_ gi-materials/schreiben/meine Sprachbiografie.md",
+                "file": "deutsch/B1_ gi-materials/sprechen/sollte man mehrere Fremdsprachen lernen..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "meine Sprachbiografie"
+              "title": "sollte man mehrere Fremdsprachen lernen."
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249
+    "width": 200
   },
   "right": {
     "id": "2037ddfdc1949a95",
@@ -166,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 216
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,6 +182,8 @@
   },
   "active": "d3451112e0a7bb38",
   "lastOpenFiles": [
+    "deutsch/B1_ gi-materials/schreiben/meine Sprachbiografie.md",
+    "deutsch/B1_ gi-materials/sprechen/sollte man mehrere Fremdsprachen lernen..md",
     "deutsch/B1_ gi-materials",
     "Untitled",
     "deutsch/schreiben/meo.md",
@@ -189,7 +191,6 @@
     "2025-09-25.md",
     "Untitled.canvas",
     "Untitled.base",
-    "deutsch/B1_ gi-materials/schreiben/meine Sprachbiografie.md",
     "Untitled.md",
     "tools/deutsch.ahk",
     "tools",
@@ -197,7 +198,6 @@
     "base-md",
     "deutsch.ahk",
     "New AutoHotkey Script.ahk",
-    "abc.md",
-    "deutsch/B1_ gi-materials/sprechen"
+    "abc.md"
   ]
 }
