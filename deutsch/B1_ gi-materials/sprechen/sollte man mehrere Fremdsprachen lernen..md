@@ -49,15 +49,9 @@ Vielen Dank fürs Zuhören!
 ### Some question to ask:
 
 - **Wie hast du damals gelernt – in der Schule oder zu Hause?**
-    
 - **Wie findest du Deutsch im Vergleich zu Englisch? Ist es schwerer oder leichter für dich?**
-    
 - **Was machst du, um Deutsch zu üben? Lernst du nur im Kurs oder auch zu Hause?**
-    
 - **Denkst du, dass man ohne Fremdsprache heutzutage noch einen guten Job finden kann?**
-    
 - **Wenn du noch eine weitere Sprache lernen würdest – welche wäre das und warum?**
-    
 - **Was denkst du über Apps wie Duolingo oder Babbel? Sind sie hilfreich beim Sprachenlernen?**
-    
 - **Was motiviert dich, weiter Deutsch zu lernen, auch wenn es manchmal schwierig ist?**
