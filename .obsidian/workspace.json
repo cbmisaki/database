@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "deutsch/schreiben/Meine Sprachbiografie.md",
+                "file": "deutsch/B1_ gi-materials/schreiben/Meine Sprachbiografie.md",
                 "mode": "source",
                 "source": false
               },
@@ -180,14 +180,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "037c19f02c765800",
+  "active": "27a8ab1ef5372e67",
   "lastOpenFiles": [
+    "deutsch/B1_ gi-materials",
+    "Untitled",
     "deutsch/schreiben/meo.md",
     "deutsch/schreiben/meo",
     "2025-09-25.md",
     "Untitled.canvas",
     "Untitled.base",
-    "deutsch/schreiben/Meine Sprachbiografie.md",
+    "deutsch/B1_ gi-materials/schreiben/Meine Sprachbiografie.md",
     "Untitled.md",
     "tools/deutsch.ahk",
     "tools",
@@ -196,7 +198,6 @@
     "deutsch.ahk",
     "New AutoHotkey Script.ahk",
     "abc.md",
-    "deutsch/sprechen",
-    "deutsch/schreiben"
+    "deutsch/B1_ gi-materials/sprechen"
   ]
 }
