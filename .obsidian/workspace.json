@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "deutsch/schreiben/Meine-Sprachbiografie.md",
+                "file": "deutsch/schreiben/Meine Sprachbiografie.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Meine-Sprachbiografie"
+              "title": "Meine Sprachbiografie"
             }
           }
         ]
@@ -182,8 +182,11 @@
   },
   "active": "d3451112e0a7bb38",
   "lastOpenFiles": [
+    "2025-09-25.md",
+    "Untitled.canvas",
+    "Untitled.base",
+    "deutsch/schreiben/Meine Sprachbiografie.md",
     "Untitled.md",
-    "deutsch/schreiben/Meine-Sprachbiografie.md",
     "tools/deutsch.ahk",
     "tools",
     "base-md/deutsch.ahk",
@@ -193,7 +196,6 @@
     "abc.md",
     "deutsch/sprechen",
     "deutsch/schreiben",
-    "Untitled",
-    "deutsch"
+    "Untitled"
   ]
 }
