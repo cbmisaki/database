@@ -1,4 +1,6 @@
 {
   "promptDelete": false,
-  "spellcheck": false
+  "spellcheck": false,
+  "livePreview": true,
+  "readableLineLength": true
 }
