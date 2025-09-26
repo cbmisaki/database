@@ -191,14 +191,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "addaffed7d9475ca",
+  "active": "fa84f2cabe4d3a52",
   "lastOpenFiles": [
-    "deutsch/B1_ gi-materials/schreiben/mein Angebot!.md",
-    "deutsch/B1_ gi-materials/Grammatikübersicht.md",
+    "Untitled 3",
+    "Untitled 2",
+    "Untitled 1",
+    "Untitled",
     "deutsch/B1_ gi-materials/sprechen/sollte man mehrere Fremdsprachen lernen..md",
     "deutsch/B1_ gi-materials/schreiben/meine Sprachbiografie.md",
+    "deutsch/B1_ gi-materials/schreiben/mein Angebot!.md",
+    "deutsch/B1_ gi-materials/Grammatikübersicht.md",
     "deutsch/B1_ gi-materials",
-    "Untitled",
     "deutsch/schreiben/meo.md",
     "deutsch/schreiben/meo",
     "2025-09-25.md",
@@ -209,8 +212,6 @@
     "tools",
     "base-md/deutsch.ahk",
     "base-md",
-    "deutsch.ahk",
-    "New AutoHotkey Script.ahk",
     "abc.md"
   ]
 }
