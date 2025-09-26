@@ -18,6 +18,6 @@ Nach Absprache ist auch eine **Lieferung innerhalb von Leipzig** möglich (gegen
 **45 Euro** (VB)
 
 ##### Informationen:
-Name: **Hoang Lam**  
+Name: **Hoang Lam**  (htm)
 Ort: **Dinh Long, Hai Duong**  
 E-Mail: malphde@gmail.com
