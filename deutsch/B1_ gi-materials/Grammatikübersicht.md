@@ -1,11 +1,11 @@
 ### 01.  Zusammengesetzte Adjektive
 
-- adj + adj
+- **adj + adj**
 
 -> süß + sauer = süßsauer
 -> hell + blau = hellblau
 
-- nomen + adj
+- **nomen + adj**
 
 -> der Alkohol + frei = alkoholfrei
 -> die Stunden (Pl) + lang = stundenlang
