@@ -3,11 +3,11 @@
 ---------------------------------------------------------------------------
 
 - **adj + adj**
--> hell + blau = hellblau
--> süß + sauer =  süßsauer
+-> hell + blau = *hellblau*
+-> süß + sauer =  *süßsauer*
 
 - **N + adj**
--> Stunden (Pl) + lang = stundenlang
--> der Alkohol + frei = alkoholfrei
+-> Stunden (Pl) + lang = *stundenlang*
+-> der Alkohol + frei = *alkoholfrei*
 
 
