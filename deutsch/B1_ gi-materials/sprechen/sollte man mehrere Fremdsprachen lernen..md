@@ -16,7 +16,7 @@ Aber es gibt Unterschiede zwischen Stadt und Land. In der Stadt gibt es mehr Spr
 
 
 #### Vorteile und Nachteile
-**Es gibt viele Vorteile**, wenn man mehrere Fremdsprachen lernt:
+- [p] **Es gibt viele Vorteile**, wenn man mehrere Fremdsprachen lernt:
 
 - Man hat mehr Chancen im Beruf.
     
@@ -27,7 +27,7 @@ Aber es gibt Unterschiede zwischen Stadt und Land. In der Stadt gibt es mehr Spr
 - Man versteht andere Kulturen besser.
     
 
-**Natürlich gibt es auch ein paar Nachteile:**
+- [c] **Natürlich gibt es auch ein paar Nachteile:**
 
 - Sprachen zu lernen braucht viel Zeit und Geduld.
     
