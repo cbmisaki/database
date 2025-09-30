@@ -20,5 +20,8 @@
   "anuppuccin-theme-settings@@anp-decoration-toggle": true,
   "anuppuccin-theme-settings@@hide-comment-indicators": true,
   "anuppuccin-theme-settings@@anp-custom-checkboxes": true,
-  "anuppuccin-theme-settings@@anp-speech-bubble": true
+  "anuppuccin-theme-settings@@anp-speech-bubble": true,
+  "anuppuccin-theme-settings@@anp-table-toggle": true,
+  "anuppuccin-theme-settings@@anp-table-width": true,
+  "anuppuccin-theme-settings@@anp-table-auto": true
 }
