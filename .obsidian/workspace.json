@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "deutsch/B1_ gi-materials/Grammatikübersicht.md",
+                "file": "deutsch/B1_ gi-materials/schreiben/meine Sprachbiografie.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Grammatikübersicht"
+              "title": "meine Sprachbiografie"
+            }
+          },
+          {
+            "id": "ba8dd3e2e568d6a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "drafts.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "drafts"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -191,26 +206,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fa84f2cabe4d3a52",
+  "active": "ba8dd3e2e568d6a5",
   "lastOpenFiles": [
+    "deutsch/B1_ gi-materials/sprechen/sollte man mehrere Fremdsprachen lernen..md",
     "deutsch/B1_ gi-materials/Grammatikübersicht.md",
-    "deutsch/B1_ gi-materials/Hausaufgaben.md",
-    "deutsch/B1_ gi-materials/Hausaufgaben",
-    "deutsch/B1_ gi-materials/schreiben/mein Angebot.md",
-    "deutsch/B1_ gi-materials/schreiben/Meine Meinung zum Thema (Fremdspachen).md",
     "deutsch/B1_ gi-materials/schreiben/meine Sprachbiografie.md",
+    "deutsch/B1_ gi-materials/schreiben/Meine Meinung zum Thema (Fremdspachen).md",
+    "deutsch/B1_ gi-materials/schreiben/mein Angebot.md",
+    "drafts.md",
     "Untitled 3",
     "Untitled 2",
     "Untitled 1",
     "Untitled",
-    "deutsch/B1_ gi-materials/sprechen/sollte man mehrere Fremdsprachen lernen..md",
+    "deutsch/B1_ gi-materials/Hausaufgaben.md",
+    "deutsch/B1_ gi-materials/Hausaufgaben",
     "deutsch/B1_ gi-materials",
     "deutsch/schreiben/meo.md",
     "deutsch/schreiben/meo",
     "2025-09-25.md",
     "Untitled.canvas",
     "Untitled.base",
-    "Untitled.md",
     "tools/deutsch.ahk",
     "tools",
     "abc.md"

@@ -1,5 +1,6 @@
 
 ### 01. zusammengesetzt Adjektive
+---------------------------------------------------------------------------
 
 - **adj + adj**
 -> hell + blau = hellblau
@@ -8,4 +9,5 @@
 - **N + adj**
 -> Stunden (Pl) + lang = stundenlang
 -> der Alkohol + frei = alkoholfrei
+
 
