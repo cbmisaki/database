@@ -10,3 +10,4 @@
 
 #### Wie wichtig sind Fremdsprachenkenntnisse meiner Meinung nach?
 - Fremdsprachen sind sehr wichtig. Man kann mit Menschen aus anderen Ländern sprechen, reisen oder im Ausland studieren und arbeiten. Ich finde, Sprachen verbinden Menschen – deshalb lerne ich gern.
+
