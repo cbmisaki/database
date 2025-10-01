@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "deutsch/B1_ gi-materials/schreiben/meine Sprachbiografie.md",
+                "file": "drafts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "meine Sprachbiografie"
+              "title": "drafts"
             }
           }
         ]
@@ -193,9 +193,9 @@
   },
   "active": "c398ed3a14dd8a01",
   "lastOpenFiles": [
-    "deutsch/B1_ gi-materials/schreiben/Meine Meinung zum Thema (Fremdspachen).md",
     "deutsch/B1_ gi-materials/Grammatikübersicht.md",
     "deutsch/B1_ gi-materials/schreiben/meine Sprachbiografie.md",
+    "deutsch/B1_ gi-materials/schreiben/Meine Meinung zum Thema (Fremdspachen).md",
     "drafts.md",
     "Untitled.canvas",
     "Untitled.base",

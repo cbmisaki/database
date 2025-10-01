@@ -1,5 +1,5 @@
 
-#### Custom Checkbox
+#### Custom Checkbox (AnuPpucin Obsidian's t theme)
 - [ ] - unchecked
 - [x]    checked   
 - [<] - scheduled
