@@ -19,3 +19,5 @@
 | :------------------------------------ | :---------------------------- |
 | Hier ist **ein Kommentar**,           | *der* sehr positiv ist.       |
 
+zß: Ich habe ein Smartphone, das Smartphone ist schon sehr alt
+-> Ich habe ein Smartphone, das schon sehr alt ist
