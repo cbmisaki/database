@@ -1,7 +1,7 @@
 
 #### Custom Checkbox
 - [ ] - unchecked
-- [x]    checked 
+- [x]    checked   
 - [<] - scheduled
 - [>] - rescheduled
 - [!] - important
@@ -23,6 +23,5 @@
 - [w] - win
 - [k] - key
 - [f] - fire
-
 
 

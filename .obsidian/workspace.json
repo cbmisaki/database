@@ -35,8 +35,7 @@
               "title": "Grammatikübersicht"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#zusammengesetzt_Adjektive",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +88,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -206,10 +206,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "037c19f02c765800",
+  "active": "ba8dd3e2e568d6a5",
   "lastOpenFiles": [
-    "drafts.md",
+    "Pasted image 20251001161135.png",
     "deutsch/B1_ gi-materials/Grammatikübersicht.md",
+    "drafts.md",
     "deutsch/B1_ gi-materials/schreiben/mein Angebot.md",
     "deutsch/B1_ gi-materials/schreiben/Meine Meinung zum Thema (Fremdspachen).md",
     "deutsch/B1_ gi-materials/schreiben/meine Sprachbiografie.md",
