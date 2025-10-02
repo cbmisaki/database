@@ -30,5 +30,17 @@ zß: Ich habe ein Smartphone, das Smartphone ist schon sehr alt.
 
 
 ---
+# 03. verbindungsadverb *sonst*
 
-befreunden = make friends
+Mit **_sonst_** drückt man eine Konsequenz aus, wenn man etwas **nicht** macht.
+
+zß:
+- Man muss tolerant sein. *Sonst* klappt eine Fernbeziehung nicht.
+- Man muss tolerant sein. Eine Fernbeziehung klappt *sonst* nicht
+
+
+- [i] Das Verbindungsadverb **_sonst_** kann auf Position 1 oder 3 stehen.
+
+
+#### üben
+-> Du solltest mehr Wasser trinken. *Sonst* bist du den ganzen Tag sehr müde
