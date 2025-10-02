@@ -1,22 +1,8 @@
 
-### 01. zusammengesetzt Adjektive
-#### how to use: 
-- **adj + adj**
--> hell + blau = *hellblau*
--> süß + sauer =  *süßsauer*
-
-- **N + adj**
--> Stunden (Pl) + lang = *stundenlang*
--> der Alkohol + frei = *alkoholfrei*
-
----
-### 02. relativpronomen
-- [i] information
-
 - Antezedens
 
 | Gibst du mir bitte **das Ladegerät**, | *das* da auf dem Tisch liegt? |
-| :------------------------------------ | :---------------------------- |
+|:------------------------------------- |:----------------------------- |
 | Hier ist **ein Kommentar**,           | *der* sehr positiv ist.       |
 
 zß: Ich habe ein Smartphone, das Smartphone ist schon sehr alt.
@@ -45,8 +31,6 @@ Akkusativ:
     Das ist ein Student. Ich _kenne_ ihn schon lange. 
     Das ist **ein Student, den** ich schon lange kenne.
 
-
-
 #### Form: 
 
 default:
@@ -61,5 +45,3 @@ mit Präpositionen
 zß:
 Das ist der Bus, ich warte auf ihn.
 -> Das ist der Bus, auf den ich warte.
-
----
