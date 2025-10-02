@@ -30,3 +30,5 @@ zß: Ich habe ein Smartphone, das Smartphone ist schon sehr alt.
 
 
 ---
+
+befreunden = make friends
