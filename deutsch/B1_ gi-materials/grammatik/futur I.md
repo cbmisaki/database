@@ -15,3 +15,5 @@ Du **wirst** nicht mehr so viel kaufen, *weil* andere Dinge mehr Bedeutung **hab
 - [!] Achtung:
 - Haupsatz Verb : Position 2
 - Nebensatz Verb: *Satzende*
+
+
