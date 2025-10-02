@@ -1,3 +1,5 @@
+; tools for special characters in Deutsch
+
 >!a::SendInput, ä
 >!+a::SendInput, Ä
 >!u::SendInput, ü
