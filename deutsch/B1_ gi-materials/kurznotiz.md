@@ -47,7 +47,6 @@ zß:
 
 
 ---
-
 # 04. ordnungszahlen
 
 | 1. erst …  | 6. sechst …      | 11. elf**t** …      | 20. zwanzig**st** …         |

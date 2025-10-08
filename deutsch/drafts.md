@@ -3,7 +3,10 @@
 
 strukturstark >< strukturschwach
 
--people use these words *to describe* regions or areas that are economically *underdeveloped* or *developed*
+- *to describe* regions or areas that are economically *underdeveloped* (schwach) or *developed* (stark)
+
+
+Engagement (französisches Lehnwort) -> _Ongajomoongt_
 
 | **WORDS** - *N*              | **MEANING**           |
 | :--------------------------- | :-------------------- |
