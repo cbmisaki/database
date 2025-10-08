@@ -17,6 +17,7 @@ strukturstark >< strukturschwach
 | **WORDS** - *A* | **MEANING** |
 | :-------------- | ----------- |
 | anderswo        | elsewhere   |
+| fördert         | promotes    |
 
 | **WORDS** - *V* | **MEANING**     |
 |:--------------- |:--------------- |

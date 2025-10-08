@@ -47,3 +47,18 @@ zß:
 
 
 ---
+
+# 04. ordnungszahlen
+
+| 1. erst …  | 6. sechst …      | 11. elf**t** …      | 20. zwanzig**st** …         |
+|:---------- |:---------------- |:------------------- |:--------------------------- |
+| 2. zweit … | 7. sieb**t** ... | 12. zwölf**t** …    | 21. einundzwanzig**st** …   |
+| 3. dritt … | 8. acht …        | 13. dreizehn**t** … | 100. einhundert**st** …     |
+| 4. viert … | 9. neun**t** …   | 14. vierzehn**t** … | 101. (ein)hunderter**st** … |
+| 5. fünft … | 10. zehn**t** …  | 15. fünfzehn**t** … | 1000. (ein)tausend**st** …  |
+Ordinalzahlen werden wie Adjektive dekliniert:  
+**der** erst**e** Grund, **_auf dem_** zweit**en** Platz, am 1.8. (erst**en** acht**en**) …
+  
+Steht in Aufzählungen die Ordinalzahl ohne Nomen, ist die Endung **_-ens_**:  
+erst**ens**, zweit**ens**, dritt**ens** …  
+Diese Form wird nicht dekliniert.
