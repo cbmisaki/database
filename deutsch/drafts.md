@@ -5,8 +5,12 @@ strukturstark >< strukturschwach
 
 *to describe* regions or areas that are economically *underdeveloped* (schwach) or *developed* (stark)
 
+Engagement (französisches Lehnwort) -> **/ɑ̃.ɡaʒ.mɑ̃/**
 
-Engagement (französisches Lehnwort) -> _Ongajomoongt_
+
+_eine große Familie um sich herum haben_: have family around
+_etw mit anderen Augen sehen_: have a different look for __
+
 
 | **WORDS** - *N*              | **MEANING**           |
 | :--------------------------- | :-------------------- |
