@@ -27,7 +27,7 @@ zß: Ich habe ein Smartphone, das Smartphone ist schon sehr alt.
  - ==Der Kasus des Relativpronomens hängt vom Verb im Nebensatz ab==
 
 
-
+wir haben auch [[relativsätze]] 
 
 ---
 # 03. verbindungsadverb *sonst*

@@ -37,6 +37,12 @@ _etw mit anderen Augen sehen_: have a different look for __
 
 ## 11.08.25
 
+*die Kleingartensiedlung*: small garden settlement
+
+- [I] In Germany, this is a well-known and beloved part of urban life. Many city dwellers rent these garden plots to enjoy nature and gardening outside their apartments.
 
 
+| **WORDS** - *V* | **MEANING** |
+| :-------------- | :---------- |
+| genehmigen      | to approved |
 
