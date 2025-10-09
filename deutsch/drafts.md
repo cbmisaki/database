@@ -25,6 +25,7 @@ _etw mit anderen Augen sehen_: have a different look for __
 | :-------------- | ----------- |
 | anderswo        | elsewhere   |
 | fördert         | promotes    |
+| restlichen      | remaining   |
 
 | **WORDS** - *V* | **MEANING**     |
 |:--------------- |:--------------- |
@@ -33,3 +34,9 @@ _etw mit anderen Augen sehen_: have a different look for __
 
 
 ---
+
+## 11.08.25
+
+
+
+

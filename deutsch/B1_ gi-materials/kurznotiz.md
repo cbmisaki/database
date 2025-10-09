@@ -40,8 +40,6 @@ zß:
 
 
 - [i] Das Verbindungsadverb **_sonst_** kann auf Position 1 oder 3 stehen.
-
-
 #### üben
 -> Du solltest mehr Wasser trinken. *Sonst* bist du den ganzen Tag sehr müde
 
