@@ -50,3 +50,6 @@ _etw mit anderen Augen sehen_: have a different look for smth
 ## 10.10.25
 
 _hip_: means fashionable, trendy, stylish
+_mittlerweile_: in the meantime
+
+
