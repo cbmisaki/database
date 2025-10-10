@@ -1,5 +1,5 @@
 
-## 10.08.25
+## 08.10.25
 
 strukturstark >< strukturschwach
 
@@ -9,7 +9,7 @@ Engagement (französisches Lehnwort) -> **/ɑ̃.ɡaʒ.mɑ̃/**
 
 
 _eine große Familie um sich herum haben_: have family around
-_etw mit anderen Augen sehen_: have a different look for __
+_etw mit anderen Augen sehen_: have a different look for smth
 
 
 | **WORDS** - *N*              | **MEANING**           |
@@ -34,8 +34,7 @@ _etw mit anderen Augen sehen_: have a different look for __
 
 
 ---
-
-## 11.08.25
+## 09.10.25
 
 *die Kleingartensiedlung*: small garden settlement
 
@@ -43,6 +42,11 @@ _etw mit anderen Augen sehen_: have a different look for __
 
 
 | **WORDS** - *V* | **MEANING** |
-| :-------------- | :---------- |
+|:--------------- |:----------- |
 | genehmigen      | to approved |
 
+
+---
+## 10.10.25
+
+_hip_: means fashionable, trendy, stylish

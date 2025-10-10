@@ -59,3 +59,12 @@ Ordinalzahlen werden wie Adjektive dekliniert:
 Steht in Aufzählungen die Ordinalzahl ohne Nomen, ist die Endung **_-ens_**:  
 erst**ens**, zweit**ens**, dritt**ens** …  
 Diese Form wird nicht dekliniert.
+
+---
+
+# 05. verben mit _her-_ und _hin-_ + Präposition
+
+
+*her-* : close to the speaker
+*hin-* : far away from the speaker
+
