@@ -5,7 +5,7 @@ heute möchte ich darüber sprechen, ob wir in unserer Stadt ein Einkaufszentrum
 
 ---
 
-#### Meine Erfahrung
+#### Erfahrungen
 Ich persönlich gehe manchmal in Einkaufszentren, besonders wenn ich etwas Bestimmtes suche oder wenn ich mit Freunden ausgehen will. Ich finde, es ist bequem: Alles ist an einem Ort – Geschäfte, Essen, Freizeit. Aber manchmal ist es auch sehr voll und laut, und die Preise sind oft höher als auf dem Markt oder in kleinen Läden.
 
 ---
@@ -17,7 +17,7 @@ Die Regierung und Firmen investieren weiter in neue Einkaufszentren, auch in kle
 
 ---
 
-#### Vor‑ und Nachteile
+#### Vorteile und Nachteile
 
 - [p] **Vorteile** 
 
@@ -43,7 +43,7 @@ Die Regierung und Firmen investieren weiter in neue Einkaufszentren, auch in kle
 
 ---
 
-#### Fazit
+#### Fazit und Dank
 Meiner Meinung nach _brauchen_ wir ein Einkaufszentrum, aber nicht irgendwo und riesig – sondern eines, das gut geplant ist:
 
 - möglichst zentral gelegen, damit viele Menschen es erreichen können;
