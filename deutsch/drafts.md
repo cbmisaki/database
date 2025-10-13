@@ -53,3 +53,7 @@ _hip_: means fashionable, trendy, stylish
 _mittlerweile_: in the meantime
 
 
+---
+## 13.10.25
+
+_Hektik_: hustle and bustle
