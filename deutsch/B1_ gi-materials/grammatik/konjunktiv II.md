@@ -21,3 +21,13 @@ zß:
 - Wir hätten gern mehr Urlaub.
 - Ich würde gern mehr verdienen.
 - Ich wünsche mir ein neues Haus!
+
+_4. (irreale) Bedingungen:_ würden
+
+zß:
+- Als ich du wäre würde ich fleißiger lernen.
+
+_5. (irreale) Vergleiche_: 
+
+zß:
+-  Er tut so, als ob er viel Geld hätte!
