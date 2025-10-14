@@ -57,3 +57,5 @@ _mittlerweile_: in the meantime
 ## 13.10.25
 
 _Hektik_: hustle and bustle
+_begleiten_: mitkommen
+

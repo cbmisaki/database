@@ -1,4 +1,4 @@
-[[deutsch]]
+
 #### Custom Checkbox (AnuPpucin Obsidian's t theme)
 - [ ] - unchecked
 - [x]    checked   

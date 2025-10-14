@@ -68,3 +68,24 @@ Diese Form wird nicht dekliniert.
 *her-* : close to the speaker
 *hin-* : far away from the speaker
 
+
+
+# 06. wünsche formulieren mit [[konjunktiv II]]
+
+würden + Vinf
+
+würden sein = *wären*
+würden haben = *hätten*
+
+
+| \         | **haben**   | **sein**  | **werden**  |
+| --------- | ----------- | --------- | ----------- |
+| ich       | hätt**e**   | wär**e**  | würd**e**   |
+| du        | hätt**est** | wär**st** | würd**est** |
+| er/es/sie | hätt**e**   | wär**e**  | würd**e**   |
+| wir       | hätt**en**  | wär**en** | würd**en**  |
+| ihr       | hätt**et**  | wär**t**  | würd**et**  |
+| sie/Sie   | hätt**en**  | wär**en** | würd**en**  |
+
+Regelmäßige Verben bilden den Konjunktiv II mit **_würde_ + Infinitiv**. Meistens verwendet man diese Form auch bei unregelmäßigen Verben:  
+_ich würde gehen_ statt _ich ginge_.
