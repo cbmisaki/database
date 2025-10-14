@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "deutsch/B1_ gi-materials/kurznotiz.md",
+                "file": "deutsch/drafts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "kurznotiz"
+              "title": "drafts"
             }
           }
         ]
@@ -193,10 +193,10 @@
   },
   "active": "96fe4243b29b5f8b",
   "lastOpenFiles": [
-    "deutsch/B1_ gi-materials/grammatik/konjunktiv II.md",
     "deutsch/B1_ gi-materials/kurznotiz.md",
     "deutsch/drafts.md",
     "README.md",
+    "deutsch/B1_ gi-materials/grammatik/konjunktiv II.md",
     "deutsch/B1_ gi-materials/sprechen/wo wohnen Sie lieber, auf dem Land oder in der Stadt.md",
     "deutsch/B1_ gi-materials/sprechen/brauchen wir Einkaufszentrum.md",
     "deutsch/B1_ gi-materials/sprechen/sollte man mehrere Fremdsprachen lernen..md",

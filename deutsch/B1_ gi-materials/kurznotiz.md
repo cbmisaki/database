@@ -61,7 +61,6 @@ erst**ens**, zweit**ens**, dritt**ens** …
 Diese Form wird nicht dekliniert.
 
 ---
-
 # 05. verben mit _her-_ und _hin-_ + Präposition
 
 
@@ -69,7 +68,7 @@ Diese Form wird nicht dekliniert.
 *hin-* : far away from the speaker
 
 
-
+---
 # 06. wünsche formulieren mit [[konjunktiv II]]
 
 würden + Vinf
@@ -89,3 +88,8 @@ würden haben = *hätten*
 
 Regelmäßige Verben bilden den Konjunktiv II mit **_würde_ + Infinitiv**. Meistens verwendet man diese Form auch bei unregelmäßigen Verben:  
 _ich würde gehen_ statt _ich ginge_.
+
+---
+# 07. nomen aus adjektiven
+
+viele jugendlich*e* Nutzer -> viele *J*ugendliche

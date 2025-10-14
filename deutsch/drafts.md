@@ -59,3 +59,9 @@ _mittlerweile_: in the meantime
 _Hektik_: hustle and bustle
 _begleiten_: mitkommen
 
+
+---
+## 14.10.25
+
+der Algorithmus, men: algorithm
+
