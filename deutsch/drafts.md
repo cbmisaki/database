@@ -63,5 +63,6 @@ _begleiten_: mitkommen
 ---
 ## 14.10.25
 
-der Algorithmus, men: algorithm
+*erfassen*: sum-up
+*der Algorithmus, men*: algorithm
 
