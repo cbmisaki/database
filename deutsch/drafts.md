@@ -66,3 +66,5 @@ _begleiten_: mitkommen
 *erfassen*: sum-up
 *der Algorithmus, men*: algorithm
 
+_Alte / Senioren / Rentner_: old people (retired)
+
