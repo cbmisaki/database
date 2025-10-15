@@ -98,3 +98,9 @@ knapp (a) = fast = gegen
 *s, Seminar, -e*: ~ Workshop
 *e, Nachhilfe*: extra education 
 
+bei jmandem wohnen: no share cost (eg: with parents)
+mit jemandem wohnen: share cost
+
+_dösen_: sleep in class
+_leseratte_: bookworms
+_pendeln_ (ich pendle zur Uni): pendeln means you have to travel very far to somewhere
