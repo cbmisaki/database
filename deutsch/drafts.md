@@ -91,3 +91,10 @@ _Alte / Senioren / Rentner_: old people (retired)
 - _WM_: **W**elt**m**eisterschaft
 - _ZDF_: **Z**weites **D**eutsches **F**ernsehen
 - _VW_: **V**olks**w**agen
+
+
+knapp (a) = fast = gegen
+
+*s, Seminar, -e*: ~ Workshop
+*e, Nachhilfe*: extra education 
+

@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "deutsch/B1_ gi-materials/Grammatikübersicht.md",
+                "file": "deutsch/drafts.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Grammatikübersicht"
+              "title": "Outgoing links from drafts"
             }
           },
           {
@@ -194,16 +194,17 @@
   "active": "96fe4243b29b5f8b",
   "lastOpenFiles": [
     "deutsch/B1_ gi-materials/kurznotiz.md",
+    "deutsch/B1_ gi-materials/grammatik/Nebensatz.md",
+    "deutsch/B1_ gi-materials/grammatik/Relativsätze.md",
+    "deutsch/B1_ gi-materials/grammatik/Relativpronomen.md",
+    "deutsch/B1_ gi-materials/grammatik/Futur I.md",
+    "deutsch/B1_ gi-materials/grammatik/Konjunktiv II.md",
     "deutsch/drafts.md",
     "README.md",
-    "deutsch/B1_ gi-materials/grammatik/konjunktiv II.md",
     "deutsch/B1_ gi-materials/sprechen/wo wohnen Sie lieber, auf dem Land oder in der Stadt.md",
     "deutsch/B1_ gi-materials/sprechen/brauchen wir Einkaufszentrum.md",
     "deutsch/B1_ gi-materials/sprechen/sollte man mehrere Fremdsprachen lernen..md",
     "deutsch.md",
-    "deutsch/B1_ gi-materials/grammatik/relativpronomen.md",
-    "deutsch/B1_ gi-materials/grammatik/relativsätze.md",
-    "deutsch/B1_ gi-materials/grammatik/futur I.md",
     "Pasted image 20251008142850.png",
     "deutsch/B1_ gi-materials/schreiben/kaufen Sie wirklich mehr.md",
     "deutsch/B1_ gi-materials/schreiben/mein Angebot.md",

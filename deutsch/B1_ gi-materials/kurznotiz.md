@@ -10,7 +10,7 @@
 -> der Alkohol + frei = *alkoholfrei*
 
 ---
-# 02. [[relativpronomen]]
+# 02. [[Relativpronomen]]
 - [i] information
 
 - Antezedens
@@ -27,7 +27,7 @@ zß: Ich habe ein Smartphone, das Smartphone ist schon sehr alt.
  - ==Der Kasus des Relativpronomens hängt vom Verb im Nebensatz ab==
 
 
-wir haben auch [[relativsätze]] 
+wir haben auch [[Relativsätze]] 
 
 ---
 # 03. verbindungsadverb *sonst*
@@ -69,7 +69,7 @@ Diese Form wird nicht dekliniert.
 
 
 ---
-# 06. wünsche formulieren mit [[konjunktiv II]]
+# 06. wünsche formulieren mit [[Konjunktiv II]]
 
 würden + Vinf
 
@@ -93,3 +93,25 @@ _ich würde gehen_ statt _ich ginge_.
 # 07. nomen aus adjektiven
 
 viele jugendlich*e* Nutzer -> viele *J*ugendliche
+
+
+---
+
+# 08. temporalsätze mit _bevor_
+
+Temporalsätze mit _bevor_ drücken aus, dass die Handlung im Hauptsatz vor der Handlung im Nebensatz mit _bevor_ passiert ist. In beiden Sätzen steht das Verb in derselben Tempusform.
+
+
+zß:
+
+Julia duscht. Danach trinkt sie einen Kaffee
+
+-> Julia hat geduscht bevor sie einen Kaffee getrunken hat
+-> Julia duscht bevor sie einen Kaffee trinkt
+
+- [!] Der Nebensatz kann auch vor dem Hauptsatz stehen.
+
+-> Bevor Julia einen Kaffee trinken, duscht sie.
+
+
+
