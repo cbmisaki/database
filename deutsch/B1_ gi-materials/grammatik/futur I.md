@@ -16,7 +16,7 @@ Du **wirst** nicht mehr so viel kaufen, *weil* andere Dinge mehr Bedeutung **hab
 - Haupsatz Verb : Position 2
 - Nebensatz Verb: *Satzende*
 
-Form:
+#### Form:
 - [2] S + werden + O + V
 
 

@@ -97,7 +97,8 @@ viele jugendlich*e* Nutzer -> viele *J*ugendliche
 
 ---
 
-# 08. temporalsätze mit _bevor_
+# 08. temporalsätze
+### mit _bevor_
 
 Temporalsätze mit _bevor_ drücken aus, dass die Handlung im Hauptsatz vor der Handlung im Nebensatz mit _bevor_ passiert ist. In beiden Sätzen steht das Verb in derselben Tempusform.
 
@@ -114,4 +115,10 @@ Julia duscht. Danach trinkt sie einen Kaffee
 -> Bevor Julia einen Kaffee trinken, duscht sie.
 
 
+### mit _nachdem_
 
+| heute  <br>(Präsens)              | früher  <br>(Perfekt/Präteritum)            | noch früher  <br>([[Plusquamperfekt]])              |
+| --------------------------------- | ------------------------------------------- | --------------------------------------------------- |
+| Lutz macht jetzt eine Ausbildung, | **nachdem** er ein Jahr **gejobbt hat**.    |                                                     |
+|                                   | Lena hat viele schlechte Noten geschrieben, | **nachdem** sie auf das Gymnasium **gekommen war**. |
+|                                   | Sie studierte Englisch,                     | **nachdem** sie das Abitur **gemacht hatte**.       |

@@ -1,5 +1,5 @@
 
-**FORM**:
+#### FORM:
 - [2] Präteritum + Umlaut / würden + Inf.
 
 **Funktionen**:

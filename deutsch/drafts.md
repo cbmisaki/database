@@ -104,3 +104,9 @@ mit jemandem wohnen: share cost
 _dösen_: sleep in class
 _leseratte_: bookworms
 _pendeln_ (ich pendle zur Uni): pendeln means you have to travel very far to somewhere
+
+
+---
+## 16.10.25
+
+Nachdem H1 ([[Plusquamperfekt]]) , H2 (Perfekt, Präteritum)
