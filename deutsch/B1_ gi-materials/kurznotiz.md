@@ -118,7 +118,7 @@ Julia duscht. Danach trinkt sie einen Kaffee
 ### mit _nachdem_
 
 | heute  <br>(Präsens)              | früher  <br>(Perfekt/Präteritum)            | noch früher  <br>([[Plusquamperfekt]])              |
-| --------------------------------- | ------------------------------------------- | --------------------------------------------------- |
-| Lutz macht jetzt eine Ausbildung, | **nachdem** er ein Jahr **gejobbt hat**.    |                                                     |
-|                                   | Lena hat viele schlechte Noten geschrieben, | **nachdem** sie auf das Gymnasium **gekommen war**. |
-|                                   | Sie studierte Englisch,                     | **nachdem** sie das Abitur **gemacht hatte**.       |
+|:--------------------------------- |:------------------------------------------- |:--------------------------------------------------- |
+| Lutz macht jetzt eine Ausbildung, | **nachdem** er ein Jahr **gejobbt hat**.    | ---------------------------------------             |
+| -----------------------           | Lena hat viele schlechte Noten geschrieben, | **nachdem** sie auf das Gymnasium **gekommen war**. |
+| -----------------------           | Sie studierte Englisch,                     | **nachdem** sie das Abitur **gemacht hatte**.       |
