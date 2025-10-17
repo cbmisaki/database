@@ -1,6 +1,6 @@
 
 
-Hallo / Guten Tag, heute möchte ich über das Thema "wo wohnen Sie lieber, auf dem Land oder in der Stadt ?" präsentieren. Zuerst erkläre ich meine persönaliche Erfahrung, dann spreche ich über die Situation in Vietnam. Danach nenne ich einige Vorteile und Nachteine. Am Ende kommt mein Fazit.
+Hallo / Guten Tag, heute möchte ich über das Thema "wo wohnen Sie lieber, auf dem Land oder in der Stadt ?" präsentieren. Zuerst erkläre ich meine persönaliche Erfahrung, dann spreche ich über die Situation in Vietnam. Danach nenne ich einige Vorteile und Nachteile. Am Ende kommt mein Fazit.
 
 ---
 #### Erfahrungen
