@@ -160,11 +160,11 @@ The preposition _trotz_ expresses an unexpected or surprising reason or contra
 + genitive (written)  
 + dative (spoken)
 
--> 
 
-Sehr viele kommen wegen der tollen Klettermöglichkeiten. 
+-> Sehr viele kommen wegen der tollen Klettermöglichkeiten. 
 
-Mach dir keine Sorgen wegen dem Parkplatz. Da gibt es immer genug freie Plätze.
+-> Mach dir keine Sorgen wegen dem Parkplatz. Da gibt es immer genug freie Plätze.
+
 
 **trotz**  
 + genitive  
