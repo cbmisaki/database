@@ -1,5 +1,5 @@
 
-# 01. zusammengesetzt Adjektive
+# 01. Zusammengesetzt Adjektive
 #### how to use: 
 - **adj + adj**
 -> hell + blau = *hellblau*
@@ -30,7 +30,7 @@ zß: Ich habe ein Smartphone, das Smartphone ist schon sehr alt.
 wir haben auch [[Relativsätze]] 
 
 ---
-# 03. verbindungsadverb *sonst*
+# 03. Verbindungsadverb *sonst*
 
 Mit **_sonst_** drückt man eine Konsequenz aus, wenn man etwas **nicht** macht.
 
@@ -45,7 +45,7 @@ zß:
 
 
 ---
-# 04. ordnungszahlen
+# 04. Ordnungszahlen
 
 | 1. erst …  | 6. sechst …      | 11. elf**t** …      | 20. zwanzig**st** …         |
 |:---------- |:---------------- |:------------------- |:--------------------------- |
@@ -61,7 +61,7 @@ erst**ens**, zweit**ens**, dritt**ens** …
 Diese Form wird nicht dekliniert.
 
 ---
-# 05. verben mit _her-_ und _hin-_ + Präposition
+# 05. Verben mit _her-_ und _hin-_ + Präposition
 
 
 *her-* : close to the speaker
@@ -69,7 +69,7 @@ Diese Form wird nicht dekliniert.
 
 
 ---
-# 06. wünsche formulieren mit [[Konjunktiv II]]
+# 06. Wünsche formulieren mit [[Konjunktiv II]]
 
 würden + Vinf
 
@@ -90,14 +90,14 @@ Regelmäßige Verben bilden den Konjunktiv II mit **_würde_ + Infinitiv**. Me
 _ich würde gehen_ statt _ich ginge_.
 
 ---
-# 07. nomen aus adjektiven
+# 07. Nomen aus Adjektiven
 
 viele jugendlich*e* Nutzer -> viele *J*ugendliche
 
 
 ---
 
-# 08. temporalsätze
+# 08. Temporalsätze
 ### mit _bevor_
 
 Temporalsätze mit _bevor_ drücken aus, dass die Handlung im Hauptsatz vor der Handlung im Nebensatz mit _bevor_ passiert ist. In beiden Sätzen steht das Verb in derselben Tempusform.
@@ -122,3 +122,52 @@ Julia duscht. Danach trinkt sie einen Kaffee
 | Lutz macht jetzt eine Ausbildung, | **nachdem** er ein Jahr **gejobbt hat**.    | ---------------------------------------             |
 | -----------------------           | Lena hat viele schlechte Noten geschrieben, | **nachdem** sie auf das Gymnasium **gekommen war**. |
 | -----------------------           | Sie studierte Englisch,                     | **nachdem** sie das Abitur **gemacht hatte**.       |
+
+---
+
+# 09. Nicht / Nur brauchen + zu + Inf
+
+brauchen zu = muss
+
+
+zß: 
+Du brauchst _nicht_ alleine zu lernen. 
+-> Du musst _nicht_ allein lernen.
+
+Man braucht _keine_ Details zu lernen.
+-> Man muss _keine_ Details lernen.
+
+
+---
+# 10. Das Partizip II als Adjektivv
+
+
+wegwerfen: Man muss _den_ weggeworfen*en*  Plastikmüll recyceln.
+
+leihen: Ich habe *ein* geliehen*es* Buch zurückgegeben.
+
+kaufen: Ich mag _die_ gekauft*e* Marmelade nicht so gern.
+
+
+---
+# 11. Prepositions _wegen_ and _trotz_
+
+The preposition _wegen_ expresses a reason or cause.  
+The preposition _trotz_ expresses an unexpected or surprising reason or contradiction.
+
+
+**wegen**  
++ genitive (written)  
++ dative (spoken)
+
+-> 
+
+Sehr viele kommen wegen der tollen Klettermöglichkeiten. 
+
+Mach dir keine Sorgen wegen dem Parkplatz. Da gibt es immer genug freie Plätze.
+
+**trotz**  
++ genitive  
++ dative (spoken in Southern Germany, Austria and Switzerland)
+
+-> Trotz der strengen Regeln kommen immer mehr Kletterer.
