@@ -113,3 +113,9 @@ Nachdem H1 ([[Plusquamperfekt]]) , H2 (Perfekt, Präteritum)
 
 _rechtzeitig_: right time
 
+
+---
+## 22.10.25
+
+_leiten_: leads
+
