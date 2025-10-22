@@ -118,4 +118,10 @@ _rechtzeitig_: right time
 ## 22.10.25
 
 _leiten_: leads
+_begeistert_: enthusiastic
+_Publikum_: audience
+_Einfluss_: influence
+_Gegner_: opponent
+_Helden_: hero
+_Leistung_: performance
 

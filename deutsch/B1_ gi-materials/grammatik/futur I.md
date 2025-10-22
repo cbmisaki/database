@@ -1,5 +1,7 @@
 Mit _werden_ + Verb im *Infinitiv* drückt man eine Vorhersage für die Zukunft aus
 
+-> **Versprechen** oder **Vermutung**
+
 | \             | **werden** |
 | ------------- | ---------- |
 | ich           | werde      |
@@ -17,6 +19,6 @@ Du **wirst** nicht mehr so viel kaufen, *weil* andere Dinge mehr Bedeutung **hab
 - Nebensatz Verb: *Satzende*
 
 #### Form:
-- [2] S + werden + O + V
+- [2] S + werden + O + Infinitiv
 
 
