@@ -1,7 +1,7 @@
 
 Hallo / Guten Tag,
 ich möchte heute über das Thema **"Sollte man mehrere Fremdsprachen lernern?"** sprechen. Ich finde dieses Thema sehr interessant, weil ich selbst mehrere Sprachen lerne.
-Zuerst erkläre ich meine persönaliche Erfahrung, dann spreche ich über die Situation in Vietnam. Danach nenne ich einige Vorteile und Nachteine. Am Ende kommt mein Fazit.
+Zuerst erkläre ich meine persönaliche Erfahrung, dann spreche ich über die Situation in Vietnam. Danach nenne ich einige Vorteile und Nachteile. Am Ende kommt mein Fazit.
 
 ---
 #### Erfahrungen

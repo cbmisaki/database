@@ -139,7 +139,7 @@ Man braucht _keine_ Details zu lernen.
 
 
 ---
-# 10. Das Partizip II als Adjektivv
+# 10. Das Partizip II als Adjektiv
 
 
 wegwerfen: Man muss _den_ weggeworfen*en*  Plastikmüll recyceln.
@@ -171,3 +171,35 @@ The preposition _trotz_ expresses an unexpected or surprising reason or contra
 + dative (spoken in Southern Germany, Austria and Switzerland)
 
 -> Trotz der strengen Regeln kommen immer mehr Kletterer.
+
+---
+# 12. Konsekutive Nebensätze mit _sodass_ oder _so ... dass_
+
+Es regnet jeden Tag stark. -> Wir können nicht wandern.
+
+- Es regnet jeden Tag stark, *sodass* wir nicht wandern können.
+- Es regnet jeden Tag *so* stark, *dass* wir nicht wandern können.
+
+---
+# 13. Irrealer Bedingungssatz
+
+
+Win irrealer Bedingungssatz wird mit _wenn_ gebildet. Er beschreibt eine Bedingung und eine Folge, die möglich oder wahrscheinlich sind, aber nicht real. In irrealen Bedingungssätyen verwendet man den [[Konjunktiv II]].
+
+
+| Wirklichkeit            | Vorstellung                      |
+| :---------------------- | :------------------------------- |
+| Eva hat einen guten Job | Bedingung: kein guter Job        |
+|                         | Folge: sich selbstständig machen |
+
+Wenn Eva keinen guten Job **hätte**, (dann) **würde** sie sich selbstständig machen.
+
+---
+# 14. Nebensätze mit _damit_ und _um … zu_ + Infinitiv
+
+_damit_ + Nebensatz (andere Subjekt)
+_um ... zu_ + Inf (gleiches Subjekt)
+
+zß: 
+- Lesen Sie unsere Tipps. *Damit* Ihre Chance steigen.
+- Die Firmen erwarten ein Foto, *um* sich einen ersten Eindruck _machen zu können_.

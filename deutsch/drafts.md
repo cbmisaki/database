@@ -125,3 +125,15 @@ _Gegner_: opponent
 _Helden_: hero
 _Leistung_: performance
 
+you can use [[Futur I]] for a promise or a "guess", plans in the future
+
+
+---
+## 24.10.25
+
+_reife_: mature
+_angenehm_: pleasant
+_Verpflegung_: catering
+
+use [[Konjunktiv II]] for irrealer Bedingungssatz
+
