@@ -144,7 +144,10 @@ _das Hufeisen_: horseshoes
 _der Raabe_ (Pechvogel): raven
 _der Schornsteinfeger_: chimney sweeper
 _irgendwie_: somehow
+_ausreden_: talk it out (keine _ausrede_: speak less)
+jdn _beleidigen_ , jdm _leidtun_: hurt someone (emotionally)
 
+_der Konkurrenz - Konkurrenten_: (Person)
 ##### Was bedeutet ?
 **Schwein gehabt**: großes Glück haben
 **Glückspilz**: eine Person, die großes Glück hat
