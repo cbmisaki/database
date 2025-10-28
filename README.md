@@ -1,4 +1,4 @@
-
+this is the place for me to storage things that doesnt need it own repo
 #### Custom Checkbox (AnuPpucin Obsidian's t theme)
 - [ ] - unchecked
 - [x]    checked   

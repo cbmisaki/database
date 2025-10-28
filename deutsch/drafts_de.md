@@ -151,3 +151,15 @@ _irgendwie_: somehow
 **Pechvogel**: eine Person, die großes Pech hat
 
 
+
+							Meine Mutter hat
+mir        heute        wegen des Winters    mit viel Liebe    Wollhandschuhe      zuhause
+dativ    temporal               kausal                   modal                akkusativ             local
+        wann?              warum?                   wie?                                             wo?
+								==gestrickt.==
+
+
+
+
+| Subjekt | Verb | bekannter Dativ | bekannter Akkusativ | **te** | **ka** | **mo** | unbekannter Dativ | unbekannter Akkusativ | **lo** | Präpositional Ergäzung | 2. Teil des Verbs |
+| ------- | ---- | --------------- | ------------------- | ------ | ------ | ------ | ----------------- | --------------------- | ------ | ---------------------- | ----------------- |
