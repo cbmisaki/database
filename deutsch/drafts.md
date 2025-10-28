@@ -137,3 +137,17 @@ _Verpflegung_: catering
 
 use [[Konjunktiv II]] for irrealer Bedingungssatz
 
+---
+## 28.10.25
+
+_das Hufeisen_: horseshoes
+_der Raabe_ (Pechvogel): raven
+_der Schornsteinfeger_: chimney sweeper
+_irgendwie_: somehow
+
+##### Was bedeutet ?
+**Schwein gehabt**: großes Glück haben
+**Glückspilz**: eine Person, die großes Glück hat
+**Pechvogel**: eine Person, die großes Pech hat
+
+
