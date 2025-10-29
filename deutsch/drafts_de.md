@@ -166,3 +166,29 @@ dativ    temporal               kausal                   modal                ak
 
 | Subjekt | Verb | bekannter Dativ | bekannter Akkusativ | **te** | **ka** | **mo** | unbekannter Dativ | unbekannter Akkusativ | **lo** | Präpositional Ergäzung | 2. Teil des Verbs |
 | ------- | ---- | --------------- | ------------------- | ------ | ------ | ------ | ----------------- | --------------------- | ------ | ---------------------- | ----------------- |
+
+---
+## 29.10.25
+
+_von Anfang an_: from the beginning
+_selten_: rare. rarely
+
+_oder / bzw._ = beziehungsweise
+aber / doch / jedoch / andererseits
+
+
+- [2] **je** + Komparativ, **desto** + Komparativ (more ... more)
+
+-> Je mehr wir konsumieren, desto schlimmer unser Klima wird.
+
+
+zweiteilige / Konnektoren Doppeltkonjunktionen
+
+|                            |                     |                                                             |
+| :------------------------- | ------------------- | :---------------------------------------------------------- |
+| sowohl ... als auch        | Aufzählung          | Ich denke sowohl über Julia als auch über das Orakel nach.  |
+| nicht nur ... sondern auch | Aufzählung          | Das is nicht nur gefährlich, sondern auch verboten.         |
+| weder ... noch             | negative Aufzählung | Ich will weder sehen noch mit dir sprechen !                |
+| nicht ... sondern          | Gegensatz           | Harry ist nicht mutig, sondern feige.                       |
+| zwar ... aber              | Einschränkung       | Die Fahrt mit dem Taxi ist zwar teuer, aber viel schneller. |
+| entweder ... oder          | Alternativen        | Sie sind entweder verliebt oder verrückt ! Oder beides.     |
