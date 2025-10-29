@@ -5,13 +5,13 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:deutsch  ",
       "color": {
         "a": 1,
-        "rgb": 15781718
+        "rgb": 15403552
       }
     }
   ],
@@ -25,6 +25,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.4005074130090735,
+  "scale": 0.1834994999852437,
   "close": false
 }
