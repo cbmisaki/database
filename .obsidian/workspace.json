@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "deutsch/drafts_de.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "drafts_de"
+              "title": "README"
             }
           }
         ]
@@ -193,9 +193,10 @@
   },
   "active": "96fe4243b29b5f8b",
   "lastOpenFiles": [
+    "local tips n tricks.md",
+    "README.md",
     "deutsch/drafts_de.md",
     "deutsch/B1_ gi-materials/kurznotiz.md",
-    "README.md",
     "deutsch/B1_ gi-materials/sprechen/ist der Job das wichtigste im Leben.md",
     "deutsch/B1_ gi-materials/sprechen/brauchen wir Einkaufszentrum.md",
     "deutsch/B1_ gi-materials/sprechen/wo wohnen Sie lieber, auf dem Land oder in der Stadt.md",
