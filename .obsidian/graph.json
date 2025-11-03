@@ -8,10 +8,10 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:deutsch  ",
+      "query": "path:deutsch/goethe-institute  ",
       "color": {
         "a": 1,
-        "rgb": 15403552
+        "rgb": 8705821
       }
     }
   ],
@@ -25,6 +25,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.1834994999852437,
-  "close": false
+  "scale": 0.34285375441704946,
+  "close": true
 }

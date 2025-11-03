@@ -192,3 +192,16 @@ zweiteilige / Konnektoren Doppeltkonjunktionen
 | nicht ... sondern          | Gegensatz           | Harry ist nicht mutig, sondern feige.                       |
 | zwar ... aber              | Einschränkung       | Die Fahrt mit dem Taxi ist zwar teuer, aber viel schneller. |
 | entweder ... oder          | Alternativen        | Sie sind entweder verliebt oder verrückt ! Oder beides.     |
+
+---
+
+## 30.10.25
+
+_anstatt ... zu_: instead of
+- Anstatt den ganzen Tag am PC zu sitzen, arbeite ich lieber mit dem Händen.
+
+
+---
+## 3.11.25
+
+_Gutschein_: vouchers

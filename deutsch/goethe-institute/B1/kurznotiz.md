@@ -203,3 +203,15 @@ _um ... zu_ + Inf (gleiches Subjekt)
 zß: 
 - Lesen Sie unsere Tipps. *Damit* Ihre Chance steigen.
 - Die Firmen erwarten ein Foto, *um* sich einen ersten Eindruck _machen zu können_.
+
+---
+# 15. Indefiniter Artikel / Indefinitpronomen mit _irgend-_
+
+
+
+|                                                                                                                                                      | **maskulin**           | **neutrum**                | **feminin**        | **Plural**                   |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- | -------------------------- | ------------------ | ---------------------------- |
+| Nominativ                                                                                                                                            | irgendein Mann         | irgendein Geschenk         | irgendein**e** CD  | irgend**welche** Geschenke   |
+| Akkusativ                                                                                                                                            | irgendein**en** Mann   | irgendein Geschenk         | irgendein**e** CD  | irgend**welche** Geschenke   |
+| Dativ                                                                                                                                                | irgendein**em** Mann   | irgendein**em** Geschenk   | irgendein**er** CD | irgend**welchen** Geschenken |
+| Genitiv                                                                                                                                              | irgendein**es** Mannes | irgendein**es** Geschenkes | irgendein**er** CD | irgend**welcher** Geschenke  |
