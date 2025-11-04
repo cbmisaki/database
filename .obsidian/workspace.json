@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "deutsch/goethe-institute/B1/kurznotiz.md",
+                "file": "deutsch/goethe-institute/B1/drafts_de_gi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "kurznotiz"
+              "title": "drafts_de_gi"
             }
           }
         ]
@@ -193,10 +193,10 @@
   },
   "active": "96fe4243b29b5f8b",
   "lastOpenFiles": [
-    "deutsch/goethe-institute/B1/drafts_de_gi.md",
     "deutsch/goethe-institute/B1/kurznotiz.md",
-    "deutsch/goethe-institute/B1/grammatik/Relativsätze.md",
+    "deutsch/goethe-institute/B1/drafts_de_gi.md",
     "README.md",
+    "deutsch/goethe-institute/B1/grammatik/Relativsätze.md",
     "deutsch/goethe-institute/B1",
     "local tips n tricks.md",
     "deutsch/goethe-institute/B1/sprechen/ist der Job das wichtigste im Leben.md",

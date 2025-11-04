@@ -28,4 +28,3 @@ this is the place for me to storage things that doesnt need it own repo
 - [k] - key
 - [f] - fire
 
-

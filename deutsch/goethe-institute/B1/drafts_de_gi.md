@@ -205,3 +205,7 @@ _anstatt ... zu_: instead of
 ## 3.11.25
 
 _Gutschein_: vouchers
+_auf etw schauen = etw spielt die richtige Rolle_
+_Schritt für Schritt_ = _Stück für Stück_: step by step
+
+---
