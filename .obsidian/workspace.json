@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "deutsch/goethe-institute/B1/schreiben/teil1/11.14.25.md",
+                "file": "deutsch/goethe-institute/B1/schreiben/teil3/14.11.25.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11.14.25"
+              "title": "14.11.25"
             }
           }
         ],
@@ -208,9 +208,11 @@
   },
   "active": "ee2e137f14012c30",
   "lastOpenFiles": [
+    "deutsch/goethe-institute/B1/schreiben/teil1/14.11.25.md",
+    "deutsch/goethe-institute/B1/schreiben/teil3/14.11.25.md",
+    "deutsch/goethe-institute/B1/schreiben/teil3",
     "deutsch/goethe-institute/B1/drafts_de_gi.md",
     "deutsch/goethe-institute/B1/kurznotiz.md",
-    "deutsch/goethe-institute/B1/schreiben/teil1/11.14.25.md",
     "deutsch/goethe-institute/B1/schreiben/tanzkurs.md",
     "deutsch/goethe-institute/B1/schreiben/teil1",
     "deutsch/goethe-institute/B1/schreiben/die App hätte ich gern!.md",
@@ -244,8 +246,6 @@
     "Untitled 1",
     "Untitled",
     "deutsch/B1_ gi-materials/Hausaufgaben.md",
-    "deutsch/B1_ gi-materials/Hausaufgaben",
-    "deutsch/goethe-institute",
-    "deutsch/schreiben/meo.md"
+    "deutsch/B1_ gi-materials/Hausaufgaben"
   ]
 }
