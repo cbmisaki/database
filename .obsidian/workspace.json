@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "deutsch/goethe-institute/B1/schreiben/teil3/14.11.25.md",
+                "file": "deutsch/goethe-institute/B1/schreiben/teil2/14.11.25.md",
                 "mode": "source",
                 "source": false
               },
@@ -208,8 +208,10 @@
   },
   "active": "ee2e137f14012c30",
   "lastOpenFiles": [
-    "deutsch/goethe-institute/B1/schreiben/teil1/14.11.25.md",
     "deutsch/goethe-institute/B1/schreiben/teil3/14.11.25.md",
+    "deutsch/goethe-institute/B1/schreiben/teil2/14.11.25.md",
+    "deutsch/goethe-institute/B1/schreiben/teil2",
+    "deutsch/goethe-institute/B1/schreiben/teil1/14.11.25.md",
     "deutsch/goethe-institute/B1/schreiben/teil3",
     "deutsch/goethe-institute/B1/drafts_de_gi.md",
     "deutsch/goethe-institute/B1/kurznotiz.md",
@@ -244,8 +246,6 @@
     "Untitled 3",
     "Untitled 2",
     "Untitled 1",
-    "Untitled",
-    "deutsch/B1_ gi-materials/Hausaufgaben.md",
-    "deutsch/B1_ gi-materials/Hausaufgaben"
+    "Untitled"
   ]
 }
