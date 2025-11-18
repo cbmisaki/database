@@ -25,4 +25,4 @@ Auf der anderen Seite hat Arbeit auch **Nachteile**. Wenn man zu viel arbeitet, 
 
 Meiner Meinung nach ist der Job wichtig, aber nicht das wichtigste im Leben. Gesundheit, Familie und Freunde sind genauso wichtig. Man sollte eine gute Balance zwischen Arbeit und Freizeit finden.
 
-Vielen Dank fürs Zuhören!
+Vielen Dank für Zuhören!
