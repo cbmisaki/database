@@ -210,4 +210,42 @@ _Schritt für Schritt_ = _Stück für Stück_: step by step
 
 ---
 
+## 20.11.25
+Module Test Einheit 10:
 
+#### LESEN
+**teil 1**:
+1. F
+2. T
+3. F
+4. T
+5. T
+6. F
+**teil 2**:
+7. b
+8. c
+9. a
+10. c
+11. c
+12. b
+**teil 3**:
+13. d
+14. x
+15. e
+16. a
+17. b
+18. j
+19. c
+**teil 4**:
+20. NEIN
+21. NEIN
+22. JA
+23. NEIN
+24. JA
+25. NEIN
+26. NEIN
+**teil 5**:
+27. b
+28. c
+29. a
+30. b
